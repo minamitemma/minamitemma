@@ -1,15 +1,25 @@
-## Hi there 👋
+# Tenma Minami
 
+B.Eng. student in Electronic Information Engineering at the University of Tokyo.
+Interested in NLP, large language models, and multi-agent systems.
 
-**minamitemma/minamitemma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently exploring how to analyze, attribute, and improve failures in LLM-based agent systems.
 
-Here are some ideas to get you started:
+## Interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+* Natural Language Processing
+* Large Language Models
+* Multi-Agent Systems
+* Machine Learning
+* Software Engineering
+
+## Tech Stack
+
+Python / PyTorch / TypeScript / Docker / Git / Flutter
+
+## Currently
+
+* Preparing for graduate research in NLP and LLM agents
+* Reading papers on reasoning, agent collaboration, and failure attribution
+* Working as a long-term software engineering intern
+
