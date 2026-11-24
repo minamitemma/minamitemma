@@ -1,4 +1,4 @@
-# Tenma Minami
+# Temma Minami
 
 B.Eng. student in Electronic Information Engineering at the University of Tokyo.
 Interested in NLP, large language models, and multi-agent systems.
